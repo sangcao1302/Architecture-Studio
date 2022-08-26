@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Architecture-studio/static/css/main.4152af68.css",
+    "main.js": "/Architecture-studio/static/js/main.ffbd35cc.js",
+    "static/js/787.0b2efc6c.chunk.js": "/Architecture-studio/static/js/787.0b2efc6c.chunk.js",
+    "index.html": "/Architecture-studio/index.html",
+    "main.4152af68.css.map": "/Architecture-studio/static/css/main.4152af68.css.map",
+    "main.ffbd35cc.js.map": "/Architecture-studio/static/js/main.ffbd35cc.js.map",
+    "787.0b2efc6c.chunk.js.map": "/Architecture-studio/static/js/787.0b2efc6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152af68.css",
+    "static/js/main.ffbd35cc.js"
+  ]
+}
